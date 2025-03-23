@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paoli22/drums-machine/static/css/main.687024d3.css",
+    "main.js": "/paoli22/drums-machine/static/js/main.c7c81c43.js",
+    "static/js/453.2a5a97fa.chunk.js": "/paoli22/drums-machine/static/js/453.2a5a97fa.chunk.js",
+    "index.html": "/paoli22/drums-machine/index.html",
+    "main.687024d3.css.map": "/paoli22/drums-machine/static/css/main.687024d3.css.map",
+    "main.c7c81c43.js.map": "/paoli22/drums-machine/static/js/main.c7c81c43.js.map",
+    "453.2a5a97fa.chunk.js.map": "/paoli22/drums-machine/static/js/453.2a5a97fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687024d3.css",
+    "static/js/main.c7c81c43.js"
+  ]
+}
